@@ -1,1 +1,1 @@
-fprint('Hello world')
+print('Hello world')
